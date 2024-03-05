@@ -241,7 +241,7 @@ Du skal blot oprette en konto hos Instant Gaming, klikke på de enkelte billeder
     </a> 
 </p>
 
-### No longer working
+### Virker ikke længere
 
 <p align="left">
     <a href="https://www.instant-gaming.com/da/giveaway/linca?igr=japariri" target="_blank" rel="noreferrer">
