@@ -239,6 +239,9 @@ Simply create an account with Instant Gaming, click on the individual images and
     <a href="https://www.instant-gaming.com/en/giveaway/j0nathan?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/32491-1612461730.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a> 
+        <a href="https://www.instant-gaming.com/en/giveaway/STELIUS?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Robert87000" width="76" height="76" />
+    </a>
 </p>
 
 ### No longer working
@@ -265,37 +268,34 @@ Simply create an account with Instant Gaming, click on the individual images and
     <a href="https://www.instant-gaming.com/en/giveaway/souvenirsdemael?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2274022-1700917198.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/Schneile" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/Schneile?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/14423860-1684836413.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/fanmadetim" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/fanmadetim?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16642119-1643277939.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/delacroix22" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/delacroix22?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/20671308-1700163325.jpg" alt="PlayerInside" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/en/giveaway/TUBERVIEJUNER" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/TUBERVIEJUNER?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9996845-1664208358.jpg" alt="portalgamer" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/en/giveaway/lusorkoeffizient" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/lusorkoeffizient?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8124578-1565266897.jpg" alt="Bugland" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/nardvillain" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/nardvillain?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/20869830-1686065356.jpg" alt="Mr_RatSup3r" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/SEV" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/SEV?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/10224464-1585925716.jpg" alt="Froz3n" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/en/giveaway/STELIUS" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Robert87000" width="76" height="76" />
-    </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/BABANISTAF" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/BABANISTAF?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/19666350-1673276632.jpg" alt="Robert87000" width="76" height="76" />
     </a>
-    <a href="https://www.instant-gaming.com/en/giveaway/DIOGOESTEVES" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/DIOGOESTEVES?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15100457-1696806903.jpg" alt="Yanka" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/en/giveaway/sharky" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/en/giveaway/sharky?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5230971-1677019101.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a> 
 </p>
