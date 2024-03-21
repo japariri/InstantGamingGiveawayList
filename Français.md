@@ -5,6 +5,9 @@ Il suffit de créer un compte sur Instant Gaming, de cliquer sur les différente
 ### Giveaway
 
 <p align="left">
+        <a href="https://www.instant-gaming.com/fr/giveaway/steamdeckoled2024?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5170510-1683532414.jpg" alt="STEAM DECK OLED + 10x STEAM GIFT CARDS 20" width="76" height="76" />
+    </a>
         <a href="https://www.instant-gaming.com/fr/giveaway/CORYPHEUS?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15398397-1632480753.jpg" alt="Corypheus" width="76" height="76" />
     </a>
