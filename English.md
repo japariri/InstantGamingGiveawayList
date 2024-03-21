@@ -5,6 +5,9 @@ Simply create an account with Instant Gaming, click on the individual images and
 ### Giveaway
 
 <p align="left">
+    <a href="https://www.instant-gaming.com/en/giveaway/steamdeckoled2024?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5170510-1683532414.jpg" alt="STEAM DECK OLED + 10x STEAM GIFT CARDS 20" width="76" height="76" />
+    </a>
     <a href="https://www.instant-gaming.com/en/giveaway/CORYPHEUS?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15398397-1632480753.jpg" alt="Corypheus" width="76" height="76" />
     </a>
