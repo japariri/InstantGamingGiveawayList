@@ -5,12 +5,6 @@ Du skal blot oprette en konto hos Instant Gaming, klikke på de enkelte billeder
 ### Giveaway
 
 <p align="left">
-    <a href="https://www.instant-gaming.com/da/giveaway/steamdeckoled2024?igr=japariri" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/5170510-1683532414.jpg" alt="STEAM DECK OLED + 10x STEAM GIFT CARDS 20" width="76" height="76" />
-    </a>
-    <a href="https://www.instant-gaming.com/da/giveaway/CORYPHEUS?igr=japariri" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/15398397-1632480753.jpg" alt="Corypheus" width="76" height="76" />
-    </a>
     <a href="https://www.instant-gaming.com/da/giveaway/DERSORBUS?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="DerSorbus" width="76" height="76" />
     </a> 
