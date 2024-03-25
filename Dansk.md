@@ -5,8 +5,11 @@ Du skal blot oprette en konto hos Instant Gaming, klikke på de enkelte billeder
 ### Giveaway
 
 <p align="left">
+        <a href="https://www.instant-gaming.com/da/giveaway/corypheus?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="" alt="Corypheus" width="76" height="76" />
+    </a>
     <a href="https://www.instant-gaming.com/da/giveaway/DERSORBUS?igr=japariri" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="DerSorbus" width="76" height="76" />
+        <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="Corypheus" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/da/giveaway/INFOPOINT-ITALIA?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5022391-1620639580.jpg" alt="Infopoint-Italia" width="76" height="76" />
