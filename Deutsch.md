@@ -233,9 +233,6 @@ Erstellen Sie einfach ein Konto bei Instant Gaming, klicken Sie auf die einzelne
         <a href="https://www.instant-gaming.com/de/giveaway/j0nathan?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/32491-1612461730.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a> 
-        <a href="https://www.instant-gaming.com/de/giveaway/STELIUS?igr=japariri" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Robert87000" width="76" height="76" />
-    </a>
         <a href="https://www.instant-gaming.com/de/giveaway/sharky?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5230971-1677019101.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a> 
@@ -298,4 +295,7 @@ Erstellen Sie einfach ein Konto bei Instant Gaming, klicken Sie auf die einzelne
         <a href="https://www.instant-gaming.com/fr/giveaway/cissouryne?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7984380-1676733343.jpg" alt="Infopoint-Italia" width="76" height="76" />
     </a> 
+        <a href="https://www.instant-gaming.com/de/giveaway/STELIUS?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Robert87000" width="76" height="76" />
+    </a>
 </p>
