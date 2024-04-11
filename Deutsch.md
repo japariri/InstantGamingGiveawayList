@@ -236,6 +236,9 @@ Erstellen Sie einfach ein Konto bei Instant Gaming, klicken Sie auf die einzelne
         <a href="https://www.instant-gaming.com/de/giveaway/sharky?igr=japariri" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5230971-1677019101.jpg" alt="Souvenirs De Mael" width="76" height="76" />
     </a> 
+        <a href="https://www.instant-gaming.com/de/giveaway/laurabbyx?igr=japariri" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23659673-1710786509.jpg" alt="Souvenirs De Mael" width="76" height="76" />
+    </a>
 </p>
 
 ### Funktioniert nicht mehr
